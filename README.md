@@ -97,6 +97,7 @@ if i!=j:
 prod=prod*(s-x[j])/(x[i]-x[j])
 sum=sum+prod*y[i]
 print ("The functional value is %.4f"%sum)
+```
 ```python
 def f(x):
 return 1/(1+x**2)
